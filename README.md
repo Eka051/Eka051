@@ -1,8 +1,20 @@
 <h2 align="center">Hi 👋, I'm Dian Eka Raharjo</h2>
+<p align="center">A passionate developer from Jember, Indonesia.</p>
 
-###
+<p align="left">🎓 I'm currently a student at the <strong>Faculty of Computer Science, University of Jember</strong>, where I'm honing my skills in software engineering and application development.</p>
 
-<p align="left">🎓Faculty of Computer Science, University of Jember</p>
+<h1 align="left">🚀 About Me</h1>
+
+<p align="left">
+I'm a developer with a strong focus on building comprehensive and efficient applications. My expertise spans from creating beautiful, cross-platform mobile experiences with <strong>Flutter</strong> to engineering robust and scalable backends with <strong>ASP.NET C#</strong>. I also enjoy developing full-stack mobile solutions, leveraging the power of <strong>Laravel</strong> to create seamless and powerful applications.
+<br><br>
+
+🌱 I’m currently deepening my knowledge in advanced state management in Flutter using GetX.<br>
+
+👯 I’m looking to collaborate on innovative mobile or full-stack projects.<br>
+
+💬 Ask me about Flutter, Dart, C#, or Laravel. I'm happy to help!
+</p>
 
 ###
 
