@@ -6,7 +6,7 @@
 <h1 align="left">🚀 About Me</h1>
 
 <p align="left">
-I'm a developer with a strong focus on building comprehensive and efficient applications. My expertise spans from creating beautiful, cross-platform mobile experiences with <strong>Flutter</strong> to engineering robust and scalable backends with <strong>ASP.NET C#</strong>. I also enjoy developing full-stack mobile solutions, leveraging the power of <strong>Laravel</strong> to create seamless and powerful applications.
+I'm a developer with a strong focus on building comprehensive and efficient applications. My expertise spans from creating beautiful, cross-platform mobile experiences with <strong>Flutter</strong> to engineering robust and scalable backends with <strong>ASP.NET C# and Laravel</strong>. I also enjoy developing full-stack mobile solutions, leveraging the power of these technologies to create seamless and powerful applications.
 <br><br>
 
 🌱 I’m currently deepening my knowledge in advanced state management in Flutter using GetX.<br>
